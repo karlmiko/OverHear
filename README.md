@@ -1,4 +1,4 @@
-# OverHear: Bringing website layout to the visually challenged
+# OverHear: Bringing Website Layout to the Visually Challenged
 
 by: Linpei Duan, Max Henry, and Karl Michel Koerich
 
