@@ -1,5 +1,7 @@
 # OverHear: Bringing Website Layout to the Visually Challenged
 
+**Using Google Chrome, access: https://overhear.app**
+
 by: Linpei Duan, Max Henry, and Karl Michel Koerich
 
 ## Introduction
@@ -10,7 +12,7 @@ To solve this problem, our system presents web pages as their own sonic rooms: 3
 
 ## About the System
 
-The asystem engine you are about to use is built upon a simple demo website that contains 4 pages. Each page contains a rectangular button emitting a spatialized sound.
+The system's engine you are about to use is built upon a simple demo website that contains 4 pages. Each page contains a rectangular button emitting a spatialized sound.
 
 By moving the cursor, you will hear the sound change: by dragging the mouse towards the sound source, you will hear the sound "getting closer" and more centered as if you were approaching an object in real life. When the cursor meets and hovers over a button you are able to click, the system switches into a “focus mode”: plays a new distinct ticking sound.
 
